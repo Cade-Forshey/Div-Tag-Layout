@@ -1,28 +1,4 @@
 .header {
     font-family: cursive;
-    font-size: 36px;
-}
-
-.navigation {
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
-    font-size: 25px;
-}
-
-.main-content {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
-}
-
-.article {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 15px;
-}
-
-.footer {
- font-size: 10 px;
-}
-
-.copyright {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 8px;
+    text-align: center;
 }
